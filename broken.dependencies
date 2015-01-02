@@ -7,9 +7,9 @@
     },
     {
         "remote": "github",
-        "repository": "LiquidSmooth-Devices/android_device_samsung_d2-common",
+        "repository": "blkredstarV/device_samsung_d2-common",
         "target_path": "device/samsung/d2-common",
-        "branch": "lollipop"
+        "branch": "lp"
     },
     {
         "remote": "github",
