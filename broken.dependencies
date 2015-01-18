@@ -13,9 +13,9 @@
     },
     {
         "remote": "github",
-        "repository": "LiquidSmooth-Devices/android_device_samsung_qcom-common",
+        "repository": "blkredstarV/device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "branch": "lollipop"
+        "branch": "lp"
     },
     {
         "remote": "github",
