@@ -1,9 +1,9 @@
 [
     {
         "remote": "github",
-        "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+        "repository": "SlimRoms/device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "branch": "cm-12.0"
+        "branch": "lp5.0"
     },
     {
         "remote": "github",
@@ -13,9 +13,9 @@
     },
     {
         "remote": "github",
-        "repository": "CyanogenMod/android_device_samsung_qcom-common",
+        "repository": "SlimRoms/device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "branch": "cm-12.0"
+        "branch": "lp5.0"
     },
     {
         "remote": "github",
