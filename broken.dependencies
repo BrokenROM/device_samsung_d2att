@@ -1,9 +1,9 @@
 [
     {
         "remote": "github",
-        "repository": "blkredstarV/device_samsung_msm8960-common",
+        "repository": "CyanogenMod/device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "branch": "lp"
+        "branch": "cm-12.0"
     },
     {
         "remote": "github",
@@ -13,9 +13,9 @@
     },
     {
         "remote": "github",
-        "repository": "blkredstarV/device_samsung_qcom-common",
+        "repository": "CyanogenMod/device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "branch": "lp"
+        "branch": "cm-12.0"
     },
     {
         "remote": "github",
