@@ -3,7 +3,7 @@ $(call inherit-product, device/samsung/d2att/full_d2att.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/broken/config/nfc_enhanced.mk)
 
-# Inherit some common Broken stuff.
+# Inherit some common stuff.
 $(call inherit-product, vendor/broken/config/common_full_phone.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
