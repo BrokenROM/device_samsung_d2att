@@ -36,7 +36,7 @@
     	"branch": "master"
     },
     {
-    	"remote": "basketbuild",
+    	"remote": "bb",
     	"repository": "UBERTC/arm-linux-androideabi-4.9",
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-blkredstarV",
     	"branch": "master"
