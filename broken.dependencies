@@ -30,14 +30,14 @@
         "branch": "lp"
     },
     {
-    	"remote": "github",
-    	"repository": "DespairTC/arm-eabi-4.9",
+    	"remote": "bb",
+    	"repository": "arm-eabi-4.9",
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9",
     	"branch": "master"
     },
     {
-    	"remote": "github",
-    	"repository": "DespairTC/arm-linux-androideabi-4.9",
+    	"remote": "bb",
+    	"repository": "UBERTC/arm-linux-androideabi-4.9",
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-blkredstarV",
     	"branch": "master"
     },
