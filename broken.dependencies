@@ -30,13 +30,13 @@
         "branch": "lp"
     },
     {
-    	"remote": "bb",
-    	"repository": "arm-eabi-4.9",
+    	"remote": "bitbucket",
+    	"repository": "UBERTC/arm-eabi-4.9",
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9",
     	"branch": "master"
     },
     {
-    	"remote": "bb",
+    	"remote": "bitbucket",
     	"repository": "UBERTC/arm-linux-androideabi-4.9",
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-blkredstarV",
     	"branch": "master"
