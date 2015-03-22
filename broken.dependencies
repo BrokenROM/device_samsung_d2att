@@ -35,6 +35,12 @@
     	"target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9",
     	"branch": "master"
     },
+     {
+    	"remote": "bb",
+    	"repository": "UBERTC/arm-linux-androideabi-4.9",
+    	"target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9",
+    	"branch": "master"
+    },
     {
         "remote": "github",
         "repository": "TheMuppets/proprietary_vendor_samsung",
