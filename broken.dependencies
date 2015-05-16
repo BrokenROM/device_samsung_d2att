@@ -21,6 +21,7 @@
         "repository": "SlimRoms/device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
         "branch": "lp5.1"
+    },
     {
         "remote": "github",
         "repository": "deadman96385/Deathly_Kernel_D2",
